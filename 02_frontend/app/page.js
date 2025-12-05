@@ -105,7 +105,7 @@ export default function HomePage() {
         backgroundPosition: 'center',
         padding: '100px 40px',
         marginBottom: '40px',
-        boxShadow: '0 8px 20px rgba(0, 0, 0, 0.4)',
+        boxShadow: '0 8px 20px rgba(126, 39, 39, 0.4)',
         height: '600px',
         display: 'flex',
         alignItems: 'center',
