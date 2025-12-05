@@ -85,7 +85,7 @@ export default function HomePage() {
       <Toaster
         toastOptions={{
           style: {
-            background: '#333', // พื้นหลังสีเทาเข้ม
+            background: '#dad4d4ff', // พื้นหลังสีเทาเข้ม
             color: '#fff',      // ตัวหนังสือสีขาว
             border: '1px solid #444',
           },
