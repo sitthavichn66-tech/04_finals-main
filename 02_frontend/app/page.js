@@ -119,7 +119,7 @@ export default function HomePage() {
           left: 0,
           right: 0,
           bottom: 0,
-          background: 'linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.2) 100%)',
+          background: 'linear-gradient(to right, rgba(235, 235, 235, 0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.2) 100%)',
           zIndex: 1
         }}></div>
 
