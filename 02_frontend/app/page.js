@@ -152,7 +152,7 @@ export default function HomePage() {
               fontWeight: '500',
               opacity: 0.95
             }}>
-              พบกับหนังสือการ์ตูนและนิยายคุณภาพจากหลากหลายสำนักพิมพ์ ลดสูงสุด 50% เฉพาะงานนี้เท่านั้น!
+              พบกับหนังสือการ์ตูนและนิยายคุณภาพจากหลากหลายสำนักพิมพ์ !
             </p>
             <button 
               onClick={() => window.scrollTo({ top: 600, behavior: 'smooth' })}
